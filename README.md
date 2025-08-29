@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hrithik-Develops
-- 👀 I’m interested in Android Development, Reverse Engineering of Apps
-- 🌱 I’m currently learning Data Structures, Android development using Jetpack
-- 💞️ I love to develop Android apps 
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Data Structures, Full stack development using react
+- 💞️ I love to develop web apps 
 - 📫 Reach me on hrithiksingh02000@gmail.com
 
 
